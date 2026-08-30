@@ -1,2 +1,6 @@
 github.com/go-erasure/reedsolomon v0.1.0 h1:Am/4oo3A67ZXnoP7UuPGY4XFAfFzVpu8jv/3/24vXmE=
 github.com/go-erasure/reedsolomon v0.1.0/go.mod h1:qlHa49M0PJMk0JGBGYLyr2Gf8XVmbK+L/iThyhRJbp0=
+github.com/go-erasure/reedsolomon v0.3.0 h1:A+qrLr3OdHOftL+EyoqrdUu1sFiCb23PDWxgvc9foxU=
+github.com/go-erasure/reedsolomon v0.3.0/go.mod h1:Tqwi8qBE7RYyG/sOOKCZpGCn7+gIGHlJ7A2CsjWQVZQ=
+golang.org/x/sys v0.28.0 h1:Fksou7UEQUWlKvIdsqzJmUmCX3cZuD2+P3XyyzwMhlA=
+golang.org/x/sys v0.28.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
