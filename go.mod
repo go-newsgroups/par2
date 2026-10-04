@@ -1,6 +1,6 @@
 module github.com/go-newsgroups/par2
 
-go 1.26.4
+go 1.27.1
 
 require github.com/go-erasure/reedsolomon v0.3.0
 
