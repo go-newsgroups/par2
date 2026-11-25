@@ -1,4 +1,6 @@
-github.com/go-erasure/reedsolomon v0.5.0 h1:i9dfjAi7rTRvE7xekv/oxeeVVwrpF/F+V+apfdwQCj8=
-github.com/go-erasure/reedsolomon v0.5.0/go.mod h1:bJapl2onP43NrNgETR9ainWYtsWnmEgLZZh8ErChkUU=
-golang.org/x/sys v0.48.0 h1:bbX/i/6MgT9BVLM9RT1thmxL04yeTAhbEz4SyadbXoo=
-golang.org/x/sys v0.48.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
+github.com/go-erasure/reedsolomon v0.6.0 h1:OiViBHD5PJJTZflSiJO9Y1CKVjzNsQ2JBrUUdtahvbk=
+github.com/go-erasure/reedsolomon v0.6.0/go.mod h1:96wrAbqrplJC6vm1k4TKyYc/QkzwyIa5Xo9zQ5WbvAg=
+github.com/go-simd/gf65536 v0.2.0 h1:VTGdac7qV6gcxr/jaCA1kG+wBE222moyTmO+/+gd+Ig=
+github.com/go-simd/gf65536 v0.2.0/go.mod h1:Gkh5lX2aHtXXNAlw+1IA5qCZnKChS4uvmuhdGwtPso0=
+golang.org/x/sys v0.50.0 h1:dkKZEFTEKaLr1sjhs0WiKqoi8Jj5nHbS3Njmx1UoMJs=
+golang.org/x/sys v0.50.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
